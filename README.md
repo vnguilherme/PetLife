@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </div>
 
-<img src="https://cdn.discordapp.com/attachments/1159527196440924160/1181397097610752071/inicio.png"/>
 
 <a href="https://vnguilherme.github.io/PetLife" target="blank"/>Link do Projeto</a>
 
