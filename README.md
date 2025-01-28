@@ -1,4 +1,4 @@
-# 🦮 PetLife 
+# 🦮 PetLife Landing Page
 
 <div style="display: inline_block">
 
